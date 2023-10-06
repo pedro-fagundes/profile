@@ -1,7 +1,3 @@
-# Pedro Henrique Ferreira Fagundes
-
-![Profile Picture](https://avatars.githubusercontent.com/u/61975138?v=4)
-
 ## **Welcome to my GitHub profile!**
 
 ---
@@ -9,6 +5,11 @@
 I am a Mobile Software Engineer, shaping mobile experiences using Dart and Flutter, with additional skills in designing user interfaces and integrating APIs.
 
 Here you will find documentation on my professional experiences, personal projects, and an overview of my skills, all organized for your easy navigation.
+
+
+
+![Profile Picture](https://avatars.githubusercontent.com/u/61975138?v=4)
+# Pedro Henrique Ferreira Fagundes
 
 ## **Table of Contents**
 
