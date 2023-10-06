@@ -22,12 +22,12 @@ Here you will find documentation on my professional experiences, personal projec
 
 ## **Professional Experience**
 
-- [BrainIT](brainit.md)
-- [Ecomilhas](ecomilhas.md)
-- [Intelbras](intelbras.md)
-- [Desenrola IFSC](desenrolaifsc.md)
-- [TDL](tdl.md)
-- [DevBoostIA](devboostia.md)
+- [BrainIT](companies/brainit.md)
+- [Ecomilhas](companies/ecomilhas.md)
+- [Intelbras](companies/intelbras.md)
+- [Desenrola IFSC](projects/desenrolaifsc.md)
+- [TDL](projects/tdl.md)
+- [DevBoostIA](projects/devboostia.md)
 
 ---
 
