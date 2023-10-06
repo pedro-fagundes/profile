@@ -1,6 +1,6 @@
 # Pedro Henrique Ferreira Fagundes
 
-![Profile Picture](profile_picture.jpg)
+![Profile Picture](https://avatars.githubusercontent.com/u/61975138?v=4)
 
 ## **Welcome to my GitHub profile!**
 
